@@ -7,6 +7,8 @@ This repository contains the collection of important algorithms from research pa
 ### Resnet
 - `problem-25.py` - Implementation of ResNet architecture
 - `problem-26.py` - [Description of problem 26]
+- `problem-41.py` - [implementation of simple convolution 2D layer]
+
 
 ## How to Use
 ```bash
