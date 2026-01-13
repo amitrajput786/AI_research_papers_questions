@@ -8,6 +8,7 @@ This repository contains the collection of important algorithms from research pa
 - `problem-25.py` - Implementation of ResNet architecture
 - `problem-26.py` - [Description of problem 26]
 - `problem-41.py` - [implementation of simple convolution 2D layer]
+- `problem-113.py` - [implement a residual block with shortcut connection]
 
 
 ## How to Use
