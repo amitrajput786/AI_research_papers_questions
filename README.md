@@ -3,10 +3,17 @@
 This repository contains the collection of important algorithms from research papers to understand AI better.
 
 ## Contents
+### Densenet
+- `problem-30.py`-[Single Neuron with Backpropagation]
+- `problem-41.py`-[implement simple convolutional 2d layer ]
+""" output_size of kernel : 
+                          output_h=(input_h+2*padding-kernel_h)//stride+1
+                          output_w=(input_w+padding-kernel_w)//stride+1
+         kernel slide over the input by stride , and padding added the 0's to protect the spatial dimensions and elementwise multiplication takesplace                        """
 
 ### Resnet
 - `problem-25.py` - Implementation of ResNet architecture
-- `problem-26.py` - [Description of problem 26]
+- `problem-26.py` - [implement of single nueron by backprpophgation]
 - `problem-41.py` - [implementation of simple convolution 2D layer]
 - `problem-113.py` - [implement a residual block with shortcut connection]
 - `problem-114,115.py`-[implementation of global avearge pooling and Batchnormalization]
